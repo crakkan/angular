@@ -1,0 +1,23 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 25%;
+  }
+  .container{
+    margin-top: 20px;
+    padding-right: 20px;
+  }
+  ng-container{
+    background-color: aqua;
+  }
+  .mat-mdc-table .mdc-data-table__header-row {
+    height: 56px;
+    background-color: skyblue;
+}
